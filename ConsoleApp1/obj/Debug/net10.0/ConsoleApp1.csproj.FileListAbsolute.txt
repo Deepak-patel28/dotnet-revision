@@ -1,0 +1,15 @@
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+D:\Job Switch\Prepration\dotnet-revision\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
